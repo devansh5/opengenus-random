@@ -1,0 +1,15 @@
+{
+  "name": "opengenus",
+  "version": "1.0.0",
+  "description": "sitemap opengenus",
+  "main": "parse_sitemap_xml.js",
+  "scripts": {
+    "test": "node parse_sitemap_xml.js"
+  },
+  "author": "devansh chaubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sitemapper": "^3.1.12"
+  }
+}
